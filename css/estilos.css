@@ -13,3 +13,6 @@ p{color: rgb(red, green, blue);
 h2{
     max-width: 50px;
 }
+header{
+    background-color: aqua;
+   }
