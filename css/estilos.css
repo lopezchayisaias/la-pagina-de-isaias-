@@ -1,18 +1,9 @@
-button{margin-bottom: 15px;
-background color: aqua;
-padding: 20px;
-width: 60px
-}
 
-h1{color: chartreuse;
-    width:50px ;  
-}
-p{color: rgb(red, green, blue);
-    padding: 50px;
-}
-h2{
-    max-width: 50px;
-}
 header{
     background-color: aqua;
    }
+ul{max-width:50px;
+    color: chartreuse;
+    padding:20px ;
+    margin-top:60px;
+}
