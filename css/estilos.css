@@ -7,3 +7,7 @@ margin: 20 px;
 h1{color: chartreuse;
     width:50px ;  
 }
+p{
+    color: blueviolet;
+    padding: 50px;
+}
